@@ -9,7 +9,7 @@ From Wikipedia: [Home Health Nursing](https://en.wikipedia.org/wiki/Home_health_
 
 ### Business Challenge
 
-The primary focus of the home healthcare provider is to keep their patients healthy.  Home healthcare nurses make at-home visits, monitor a patients health, and take measures to proactively address health issues that might require a patient's hospitalization.  Beyond individual patient health, there are financial incentives from insurers for home healhcare organization that maintain the patient population under their care healthy and outside of the hospital.
+The primary focus of the home healthcare provider is to keep their patients healthy and out of the hospital.  Home healthcare nurses make at-home visits, monitor a patients health, and take measures to proactively address health issues that might require a patient's hospitalization.  Beyond individual patient health, there are financial incentives from insurers for home healhcare organization that maintain the patient population under their care healthy and outside of the hospital.
 
 ### Data Description
 
